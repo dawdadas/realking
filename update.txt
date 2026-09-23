@@ -1,1 +1,1 @@
-http://194.233.89.167:8000/download/MonsterSpooferCMD.exe
+https://github.com/dawdadas/realking/raw/refs/heads/main/realstore1.exe
